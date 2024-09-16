@@ -11,3 +11,5 @@ Configuration
 - use the command "omxconfig" to change the systemd service
 - then either restart the system, or reload the systemd service
 - omxconfig includes a simple automated restart option, that is enabled by default
+- AuroraCasting and AuroraSignage come with preset RSA authentication keys, to allow for easier testing, make sure to use your own in prod!
+- If you're not using the build script, the default username is root or pi, and the password is: AuraSysmA24
