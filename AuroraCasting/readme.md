@@ -5,6 +5,7 @@ AuroraSystems AuroraCasting
 - works with 8+gb micro sd cards, any class
 - has templates available on google drive
 - relies on OMXplayer, which is deprecated!
+- trying to remove the debug screen and boot screen will make the player no longer boot, you have been warned! (yes i wrote a dkms for this, figure out which one!)
 
 Configuration
 ------
